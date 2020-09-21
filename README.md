@@ -66,7 +66,7 @@ Enables the User to input Data to the following tables:
 
     
 <img src="./Images/TrainersTable.png" alt="Trainers Table">
-<br></br>
+
 
 
 
@@ -86,23 +86,6 @@ This is depicted here on the *Assignment per Course per Student* **Table**:
 <br></br>
 <img src="./Images/Student_Assignment_Course.png" alt="Student per Assignment per Course">
 <br></br>
-
-## Getting Started
-
-Firstly, make sure to create the necessary table using the file in *~/SQL/Private_SchoolDB.sql* <br>
-Credentials used in DB can be found in MyDBConnection.java class: <br>
-*Username*: root <br>
-*Password*: 1234
-
-## Caution
-
-- Please add **Students** and **Assignments** to courses with caution (Insert menu options 5,7)
-**Assignments** per **Course** per **Student** table (print Menu option 8) can grow fast.
-
-A welcome contribution would be to print all **Assignments** per **Student** or per **Course** (Easy to implement, <br>simply alter the query String).
-This would prevent us from printing too large tables with rows > 100.
-
-
 
 
 ## Technology Stack
