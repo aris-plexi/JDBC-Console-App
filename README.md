@@ -14,6 +14,8 @@ Credentials used in DB can be found in MyDBConnection.java class: <br>
 *Username*: root <br>
 *Password*: 1234
 
+Then, proceed to run the app with your preferred IDE and navigate through the Menu.
+
 ## Caution
 
 - Please add **Students** and **Assignments** to courses with caution (Insert menu options 5,7)
