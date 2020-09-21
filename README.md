@@ -1,9 +1,9 @@
 # JDBC Console App
 
 
-Let's start with a sample image that shows the process of adding a **Student** to one of the **Courses**:
+Here is a quick preview of the App: A sample image that shows the process of adding a **Student** to one of the **Courses**:
 
-<br></br>
+
 <img src="./Images/MenuStyle.png" alt="Main Menu">
 <br></br>
 
