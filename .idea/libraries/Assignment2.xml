@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Assignment2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Assignment2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/Libraries/commons-lang3-3.10/commons-lang3-3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
