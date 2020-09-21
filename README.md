@@ -1,7 +1,7 @@
 # JDBC Console App
 
 
-Image shows the process of adding a **Student** to one of the **Courses**:
+Let's start with a sample image that shows the process of adding a **Student** to one of the **Courses**:
 
 <br></br>
 <img src="./Images/MenuStyle.png" alt="Main Menu">
@@ -9,7 +9,7 @@ Image shows the process of adding a **Student** to one of the **Courses**:
 
 ## Getting Started
 
-Firstly, make sure to create the necessary table using the file in *~/SQL/Private_SchoolDB.sql* <br>
+Firstly, make sure to create the necessary table using the file: *~/SQL/Private_SchoolDB.sql* <br>
 Credentials used in DB can be found in MyDBConnection.java class: <br>
 *Username*: root <br>
 *Password*: 1234
@@ -80,7 +80,7 @@ Enables the User to input Data to the following tables:
 
 5. Prints 9 different tables to accommodate for all types of requests.
 
-6. One of the most demanding features, was that each Student has his/her own Grades for each **Assignment** with the extra option of Graded/Not-Graded Assignments  <br>
+6. One of the most demanding features, was that each Student has his/her own Grades for each **Assignment** with the extra option of Graded/Not-Graded Assignments.  <br>
 This is depicted here on the *Assignment per Course per Student* **Table**:
 
 <br></br>
